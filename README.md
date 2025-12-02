@@ -14,7 +14,7 @@
 ## 🧠 About Me
 I’m a **Machine Learning Developer** and **AI Engineer**, focused on building end-to-end intelligent systems using **Python**, **LLMs**, **AI Agents**, and modern MLOps tooling.
 
-With over **25 years in tech**, I specialize in designing, training, evaluating, and deploying ML/LLM solutions using:
+With **25 years** of experience across multiple IT roles — including Technical Support, Infrastructure & Telecom Administration, Project Management, Scrum Master, Data Analysis, and Delivery Management — I transitioned into Python development 5 years ago. Over the past year, I have focused my career on Artificial Intelligence, specializing as a Machine Learning Developer. I specialize in designing, training, evaluating, and deploying ML/LLM solutions using:
 
 - **FastAPI** for APIs  
 - **LangChain / LangGraph** for LLM orchestration  
