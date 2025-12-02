@@ -60,19 +60,19 @@ Credit risk prediction model, dashboard, reproducible pipeline.
 ## 🔧 Tech Stack
 
 ### 🧩 Machine Learning & Deep Learning
-`scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch` • `MLflow` • Computer Vision
+`scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch` • `MLflow` • `Computer Vision`
 
 ### 🗣️ NLP / LLMs
-`LangChain` • `LangGraph` • RAG • Embeddings • Whisper • Prompt Engineering
+`LangChain` • `LangGraph` • `RAG` • `Embeddings` • `Whisper` • `Prompt Engineering`
 
 ### 🛠️ Backend / APIs / MLOps
-`FastAPI` • `Django` • `Docker` • `Redis` • CI/CD • JWT • OAuth2
+`FastAPI` • `Django` • `Docker` • `Redis` • `CI/CD` • `JWT` • `OAuth2`
 
 ### 💾 Data Engineering & Infrastructure
-`SQL` • `PostgreSQL` • `Airflow` • `ChromaDB` • GCP • AWS • Azure
+`SQL` • `PostgreSQL` • `Airflow` • `ChromaDB` • `GCP` • `AWS` • `Azure`
 
 ### 📊 Visualization
-Power BI • Looker Studio • Matplotlib
+`Power BI` • `Looker Studio` • `Matplotlib`
 
 ---
 
