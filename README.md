@@ -91,8 +91,14 @@ Credit risk prediction model, dashboard, reproducible pipeline.
 
 ## 🎓 Education & Certifications
 
-- **Machine Learning Developer — Anyone AI (2025)**  
-- **Systems Analyst — Universidad Abierta Interamericana**  
+### University 
+- **Systems Analyst — Universidad Abierta Interamericana (2005-2010)**
+
+### Special Programs
+- **Machine Learning Developer — Anyone AI (2025)**
+- **Project Manager Program - Universidad Abierta Interamericana (2014)**
+
+### Relevant Courses
 - LLM-Based Application Development (2025)  
 - AI Solutions with Agents (2025)  
 - Apache Airflow (2025)  
